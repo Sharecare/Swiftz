@@ -1,3 +1,3 @@
-github "sharecare/Swiftx" "master"
-github "sharecare/SwiftCheck" "master"
+github "Sharecare/Swiftx" "master"
+github "Sharecare/SwiftCheck" "master"
 github "typelift/Operadics"

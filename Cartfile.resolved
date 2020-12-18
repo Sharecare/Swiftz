@@ -1,3 +1,3 @@
-github "sharecare/SwiftCheck" "c3bb2da15f0d9689eefd85394694d4f5057d5ea6"
-github "sharecare/Swiftx" "4affb6451b6981cf56c2ec1287aaee3406a5e5e0"
+github "Sharecare/SwiftCheck" "c3bb2da15f0d9689eefd85394694d4f5057d5ea6"
+github "Sharecare/Swiftx" "9569637d4e670b8ab9b6f3f3d55910b8841636df"
 github "typelift/Operadics" "0.4.0"
